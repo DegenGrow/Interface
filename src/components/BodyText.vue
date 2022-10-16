@@ -40,7 +40,7 @@
         >
 
         <a href="github.com/DegenGrow">
-          <img style="width:40px;height:40px;"
+          <img style="width:60px;height:60px;"
             class="img-fluid m-2 icon"
             height="20"
             width="20"
@@ -236,7 +236,7 @@
         >
 
         <a class="text-dark" href="github.com/DegenGrow">
-          <img style="width:40px;height:40px;"
+          <img style="width:60px;height:60px;"
             class="img-fluid m-2"
             height="20"
             width="20"
