@@ -28,7 +28,7 @@
           /></a
         >
 
-        <a href="https://dextools.io">
+        <a href="https://www.dextools.io/app/ether/pair-explorer/0x1840fff55aa1fbcbfce1699cd68d1634718ad7f0">
           <img
             class="img-fluid m-2 icon"
             height="20"
@@ -214,7 +214,7 @@
           /></a
         >
 
-        <a class="text-dark" href="https://dextools.io">
+        <a class="text-dark" href="https://www.dextools.io/app/ether/pair-explorer/0x1840fff55aa1fbcbfce1699cd68d1634718ad7f0">
           <img
             class="img-fluid m-2"
             height="20"
