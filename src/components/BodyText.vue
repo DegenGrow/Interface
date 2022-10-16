@@ -25,7 +25,7 @@
             width="20"
             src="../assets/telegram.svg"
             alt=""
-          />Telegram</a
+          /></a
         >
 
         <a href="dextools.io">
@@ -35,7 +35,7 @@
             width="20"
             src="../assets/chart.svg"
             alt=""
-          />Chart</a
+          /></a
         >
 
         <a href="github.com/DegenGrow">
@@ -45,7 +45,7 @@
             width="20"
             src="../assets/github.svg"
             alt=""
-          />Github</a
+          /></a
         >
       </div>
 
@@ -211,7 +211,7 @@
             width="20"
             src="../assets/twitter.svg"
             alt=""
-          />Twitter</a
+          /></a
         >
 
         <a class="text-dark" href="t.me/degengrow">
@@ -221,7 +221,7 @@
             width="20"
             src="../assets/telegram.svg"
             alt=""
-          />Telegram</a
+          /></a
         >
 
         <a class="text-dark" href="dextools.io">
@@ -231,7 +231,7 @@
             width="20"
             src="../assets/chart.svg"
             alt=""
-          />Chart</a
+          /></a
         >
 
         <a class="text-dark" href="github.com/DegenGrow">
@@ -241,7 +241,7 @@
             width="20"
             src="../assets/github.svg"
             alt=""
-          />Github</a
+          /></a
         >
       </div>
     </div>
