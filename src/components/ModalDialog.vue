@@ -38,14 +38,6 @@
             aria-label="Close"
           ></button>
         </div>
-        <div class="modal-body">
-          <p>
-            It seems you are a lost traveler, but you have a compass, it will
-            show the way. Even among the many monophonic threads that enveloped
-            the view, having considered among them only one with slight
-            differences, will lead you to where the sunset is coming.
-          </p>
-        </div>
         <div class="p-3">
           <form>
             <div class="form-floating">
