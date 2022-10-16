@@ -5,11 +5,11 @@
         class="col-sm-12 col-md-7 mt-5 order-sm-2 order-md-1 order-2 text-center text-sm-start"
       >
         <h1 class="display-3 fw-bolder stroke">
-          DEGENERATES TRUSTLESS COMMUNITY PROJECT
+          DEGENERATES SAFE & TRUSTLESS COMMUNITY PROJECT
         </h1>
         <p class="fs-3">By The Degens For The Degens</p>
 
-        <a href="twitter.com/degen_grow">
+        <a href="https://twitter.com/degen_grow">
           <img
             class="img-fluid m-2 icon"
             height="20"
@@ -18,8 +18,7 @@
             alt=""/></a
         >
 
-        <a href="t.me/degen
-        -grow">
+        <a href="https://t.me/degen_grow">
           <img
             class="img-fluid m-2 icon"
             height="20"
@@ -29,7 +28,7 @@
           /></a
         >
 
-        <a href="dextools.io">
+        <a href="https://dextools.io">
           <img
             class="img-fluid m-2 icon"
             height="20"
@@ -91,8 +90,8 @@
       <div class="col text-center">
         <h1 class="display-3 fw-bold">About Degen Grow</h1>
         <p class="fs-4">
-          As the Bear season continues wreck havoc across all markets and reign over the Degenverse, Frens & Chads have fallen victims to RPs, HPs and other forms of "NGMI" decisions. 
-          As like-minded Degens who aim for growth in the Degenverse, we have positioned ourselves to help Frens and Degens grow by creating a safe and trusless community deflationary token.
+          As the Bear season continues to wreck havoc across all markets and reign over the Degenverse, Frens & Chads have fallen victims to RPs, HPs and other forms of "NGMI" decisions. 
+          As like-minded Degens who aim for growth in the Degenverse, we have positioned ourselves to help Frens and Degens grow by creating a safe and trustless community deflationary token.
           Degen Grow will offer the first Single asset staking on the POM chain for all POM and $DGROW token holders.
         </p>
       </div>
@@ -195,7 +194,7 @@
   <div class="container-fluid bg-light p-5">
     <div class="row">
       <div class="col-12 text-center">
-        <a class="text-dark" href="twitter.com/geden_grow">
+        <a class="text-dark" href="https://twitter.com/geden_grow">
           <img
             class="img-fluid m-2"
             height="20"
@@ -205,7 +204,7 @@
           /></a
         >
 
-        <a class="text-dark" href="t.me/degen_grow">
+        <a class="text-dark" href="https://t.me/degen_grow">
           <img
             class="img-fluid m-2"
             height="20"
@@ -215,7 +214,7 @@
           /></a
         >
 
-        <a class="text-dark" href="dextools.io">
+        <a class="text-dark" href="https://dextools.io">
           <img
             class="img-fluid m-2"
             height="20"
