@@ -111,7 +111,7 @@
         />
         <h3 class="fw-bold my-4">Liquidity Locked</h3>
         <p>Degen Grow Liquidity locked via Team</p>
-        <a class="my-4" href="team.finance"> Learn More </a>
+        <a class="my-4" href="https://team.finance"> Learn More </a>
       </div>
 
       <div class="box col p-3 shadow text-center rounded">
@@ -123,7 +123,7 @@
         />
         <h3 class="fw-bold my-4">Contract Verifed</h3>
         <p>$DGROW Contract verified on etherscan</p>
-        <a class="my-4" href="etherscan.io"> Learn More </a>
+        <a class="my-4" href="https://etherscan.io"> Learn More </a>
       </div>
 
       <div class="box col p-3 shadow text-center rounded">
@@ -135,7 +135,7 @@
         />
         <h3 class="fw-bold my-4">No more Emission</h3>
         <p>No more tokens can be minted as the contract is finalised</p>
-        <a class="my-4" href="etherscan.io"> Learn More </a>
+        <a class="my-4" href="https://etherscan.io"> Learn More </a>
       </div>
     </div>
   </div>
