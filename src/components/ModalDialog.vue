@@ -38,20 +38,6 @@
             aria-label="Close"
           ></button>
         </div>
-        <div class="p-3">
-          <form>
-            <div class="form-floating">
-              <input
-                type="text"
-                class="form-control border-start-0 border-end-0 border-top-0 shadow-none rounded-0 bg-transparent text-white"
-                id="floatingInput"
-                placeholder="name@example.com"
-              />
-              <label for="floatingInput"> Enter secret key</label>
-            </div>
-            <ButtonWhite text="Submit Secret Key" />
-          </form>
-        </div>
       </div>
     </div>
   </div>
