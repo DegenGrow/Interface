@@ -15,8 +15,7 @@
             height="20"
             width="20"
             src="../assets/twitter.svg"
-            alt=""
-          />Twitter</a
+            alt=""/></a
         >
 
         <a href="t.me/degengrow">
