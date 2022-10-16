@@ -18,7 +18,8 @@
             alt=""/></a
         >
 
-        <a href="t.me/degengrow">
+        <a href="t.me/degen
+        -grow">
           <img
             class="img-fluid m-2 icon"
             height="20"
@@ -34,16 +35,6 @@
             height="20"
             width="20"
             src="../assets/chart.svg"
-            alt=""
-          /></a
-        >
-
-        <a href="github.com/DegenGrow">
-          <img style="width:50px;height:50px;"
-            class="img-fluid m-2 icon"
-            height="20"
-            width="0"
-            src="../assets/github.svg"
             alt=""
           /></a
         >
@@ -214,7 +205,7 @@
           /></a
         >
 
-        <a class="text-dark" href="t.me/degengrow">
+        <a class="text-dark" href="t.me/degen_grow">
           <img
             class="img-fluid m-2"
             height="20"
@@ -230,16 +221,6 @@
             height="20"
             width="20"
             src="../assets/chart.svg"
-            alt=""
-          /></a
-        >
-
-        <a class="text-dark" href="github.com/DegenGrow">
-          <img style="width:60px;height:60px;"
-            class="img-fluid m-2"
-            height="20"
-            width="20"
-            src="../assets/github.svg"
             alt=""
           /></a
         >
