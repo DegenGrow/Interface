@@ -41,8 +41,8 @@
         <a href="github.com/DegenGrow">
           <img style="width:50px;height:50px;"
             class="img-fluid m-2 icon"
-            height="60"
-            width="60"
+            height="20"
+            width="0"
             src="../assets/github.svg"
             alt=""
           /></a
