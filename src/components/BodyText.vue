@@ -39,10 +39,10 @@
         >
 
         <a href="github.com/DegenGrow">
-          <img style="width:60px;height:60px;"
+          <img style="width:50px;height:50px;"
             class="img-fluid m-2 icon"
-            height="20"
-            width="20"
+            height="60"
+            width="60"
             src="../assets/github.svg"
             alt=""
           /></a
