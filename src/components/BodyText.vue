@@ -110,8 +110,8 @@
           alt=""
         />
         <h3 class="fw-bold my-4">Liquidity Locked</h3>
-        <p>Degen Grow Liquidity locked via Team</p>
-        <a class="my-4" href="https://team.finance"> Learn More </a>
+        <p>Degen Grow Liquidity locked via Pinksale</p>
+        <a class="my-4" href="https://www.pinksale.finance/pinklock/record/1001785?chain=ETH"> Learn More </a>
       </div>
 
       <div class="box col p-3 shadow text-center rounded">
@@ -123,7 +123,7 @@
         />
         <h3 class="fw-bold my-4">Contract Verifed</h3>
         <p>$DGROW Contract verified on etherscan</p>
-        <a class="my-4" href="https://etherscan.io"> Learn More </a>
+        <a class="my-4" href="https://etherscan.io/token/0x46cE776bca835D4F704072c28ab1d9A54f4b7B46#code"> Learn More </a>
       </div>
 
       <div class="box col p-3 shadow text-center rounded">
