@@ -9,9 +9,7 @@
     Launch demo modal
   </button> -->
 
-  <ButtonWhite text="Get $DGROW" />
-
-  <ButtonWhiteLink text="Spend" />
+  <ButtonWhiteLink text="Buy $DGROW" />
 
   <!-- Modal -->
   <div
