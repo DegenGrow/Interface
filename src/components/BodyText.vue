@@ -9,7 +9,7 @@
         </h1>
         <p class="fs-3">By The Degens For The Degens</p>
 
-        <a href="https://twitter.com/degen_grow">
+        <a href="https://twitter.com/degen_grow" target="_blank">
           <img
             class="img-fluid m-2 icon"
             height="20"
@@ -18,7 +18,7 @@
             alt=""/></a
         >
 
-        <a href="https://t.me/degen_grow">
+        <a href="https://t.me/degen_grow" target="_blank">
           <img
             class="img-fluid m-2 icon"
             height="20"
@@ -28,7 +28,7 @@
           /></a
         >
 
-        <a href="https://www.dextools.io/app/ether/pair-explorer/0x1840fff55aa1fbcbfce1699cd68d1634718ad7f0">
+        <a href="https://www.dextools.io/app/ether/pair-explorer/0x1840fff55aa1fbcbfce1699cd68d1634718ad7f0" target="_blank">
           <img
             class="img-fluid m-2 icon"
             height="20"
@@ -111,7 +111,7 @@
         />
         <h3 class="fw-bold my-4">Liquidity Locked</h3>
         <p>Degen Grow Liquidity locked via Pinksale</p>
-        <a class="my-4" href="https://www.pinksale.finance/pinklock/record/1001785?chain=ETH"> Learn More </a>
+        <a class="my-4" href="https://www.pinksale.finance/pinklock/record/1001785?chain=ETH" target="_blank"> Learn More </a>
       </div>
 
       <div class="box col p-3 shadow text-center rounded">
@@ -123,7 +123,7 @@
         />
         <h3 class="fw-bold my-4">Contract Verifed</h3>
         <p>$DGROW Contract verified on etherscan</p>
-        <a class="my-4" href="https://etherscan.io/token/0x46cE776bca835D4F704072c28ab1d9A54f4b7B46#code"> Learn More </a>
+        <a class="my-4" href="https://etherscan.io/token/0x46cE776bca835D4F704072c28ab1d9A54f4b7B46#code" target="_blank"> Learn More </a>
       </div>
 
       <div class="box col p-3 shadow text-center rounded">
@@ -135,7 +135,7 @@
         />
         <h3 class="fw-bold my-4">No more Emission</h3>
         <p>No more tokens can be minted as the contract is finalised</p>
-        <a class="my-4" href="https://etherscan.io"> Learn More </a>
+        <a class="my-4" href="https://etherscan.io/token/0x46cE776bca835D4F704072c28ab1d9A54f4b7B46#readContract" target="_blank"> Learn More </a>
       </div>
     </div>
   </div>
@@ -194,7 +194,7 @@
   <div class="container-fluid bg-light p-5">
     <div class="row">
       <div class="col-12 text-center">
-        <a class="text-dark" href="https://twitter.com/geden_grow">
+        <a class="text-dark" href="https://twitter.com/geden_grow" target="_blank">
           <img
             class="img-fluid m-2"
             height="20"
@@ -204,7 +204,7 @@
           /></a
         >
 
-        <a class="text-dark" href="https://t.me/degen_grow">
+        <a class="text-dark" href="https://t.me/degen_grow" target="_blank">
           <img
             class="img-fluid m-2"
             height="20"
@@ -214,7 +214,7 @@
           /></a
         >
 
-        <a class="text-dark" href="https://www.dextools.io/app/ether/pair-explorer/0x1840fff55aa1fbcbfce1699cd68d1634718ad7f0">
+        <a class="text-dark" href="https://www.dextools.io/app/ether/pair-explorer/0x1840fff55aa1fbcbfce1699cd68d1634718ad7f0" target="_blank">
           <img
             class="img-fluid m-2"
             height="20"
